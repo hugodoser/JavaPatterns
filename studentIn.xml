@@ -1,0 +1,8 @@
+<student lastname="Elfimov">
+    <subject mark="5" title="DB"/>
+    <subject mark="4" title="OOP"/>
+    <subject mark="5" title="Math"/>
+    <subject mark="3" title="Networks"/>
+    <subject mark="2" title="Web"/>
+	<average>4</average>
+</student>
